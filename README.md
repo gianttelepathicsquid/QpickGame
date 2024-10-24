@@ -1,1 +1,1 @@
-# QpickGame
+# quetico-warehouse-game
